@@ -11,7 +11,7 @@
    ```
 2. Install python packages
    ```sh
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 3. Get TINKOFF INVEST API TOKEN
    https://www.tinkoff.ru/invest/settings/
